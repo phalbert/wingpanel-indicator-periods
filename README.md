@@ -3,7 +3,7 @@ Life indicator for elementary OS
 
 Builds upon the struture from https://github.com/PlugaruT/wingpanel-indicator-sys-monitor
 
-Building and Installation
+# Building and Installation
 
 You'll need the following dependencies:
 
@@ -15,13 +15,13 @@ libwingpanel-2.0-dev
 meson
 valac
 
-Run meson to configure the build environment and then ninja to build
+# Run meson to configure the build environment and then ninja to build
 
 meson build --prefix=/usr
 cd build
 ninja
 
-To install, use ninja install
+# To install, use ninja install
 
 sudo ninja install
 

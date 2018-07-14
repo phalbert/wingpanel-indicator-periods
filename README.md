@@ -1,5 +1,6 @@
 # wingpanel-indicator-periods
 Life indicator for elementary OS
+View how much has been used of a day, week, month, and year.
 
 Builds upon the struture from https://github.com/PlugaruT/wingpanel-indicator-sys-monitor
 

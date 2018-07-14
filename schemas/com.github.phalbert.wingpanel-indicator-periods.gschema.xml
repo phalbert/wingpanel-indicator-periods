@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema path="/com/github/phalbert/wingpanel-indicator-periods/" id="com.github.phalbert.wingpanel-indicator-periods" gettext-domain="periods-indicator">
+		<key type="b" name="show-day">
+			<default>true</default>
+			<summary>Show Day usage in Wingpanel</summary>
+			<description></description>
+		</key>
+    <key type="b" name="show-week">
+			<default>true</default>
+			<summary>Show Week usage in Wingpanel</summary>
+			<description></description>
+		</key>
+	<key type="b" name="show-month">
+			<default>true</default>
+			<summary>Show Month usage in Wingpanel</summary>
+			<description></description>
+		</key>
+	<key type="b" name="show-year">
+			<default>true</default>
+			<summary>Show Year usage in Wingpanel</summary>
+			<description></description>
+		</key>
+    <key type="b" name="show-icon">
+			<default>false</default>
+			<summary>Show periods icon in Wingpanel</summary>
+			<description></description>
+		</key>
+	</schema>
+</schemalist>
